@@ -10,7 +10,7 @@
 
 ### O que é o GitHub?
 
-[GitHub](https://github.com/) é uma plataforma de hospedagem de código que utiliza o Git. Ele adiciona funcionalidades sociais como pull requests, issues, forks e ações automatizadas.
+[GitHub](https://github.com/) GitHub é uma plataforma de hospedagem de repositórios que utiliza o sistema Git. Ele adiciona funcionalidades sociais como pull requests, issues, forks e ações automatizadas.
 
 - **Função**: Hospedar repositórios Git e facilitar colaboração em projetos de software.
 
